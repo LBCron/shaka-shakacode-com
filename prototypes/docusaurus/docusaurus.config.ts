@@ -198,7 +198,7 @@ const config: Config = {
           items: [
             {label: 'Getting started', to: '/docs/getting-started'},
             {label: 'Working with Shaka', to: '/docs/working-with-shaka'},
-            {label: 'PR verification', to: '/docs/pr-verification'},
+            {label: 'Review and improve', to: '/docs/pr-verification'},
             {label: 'Settings', to: '/docs/settings'},
             {
               label: 'Skill references',
